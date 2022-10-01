@@ -1,3 +1,9 @@
+#### Name: [Satyam Tripathi](https://github.com/Iamtripathisatyam)
+
+- Place: Kanpur, India
+- Bio: Python Developer & Technical Writer
+- GitHub: [Iamtripathisatyam](https://github.com/Iamtripathisatyam)
+
 #### Name: [Nishant Raghuvanshi](https://github.com/nishantraghuvanshi)
 
 - Place: Delhi, India
