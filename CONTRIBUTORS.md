@@ -278,3 +278,8 @@
 - GitHub: [hoplite2000](https://github.com/hoplite2000)
 
 >>>>>>> 84a3c481b1beaa98e6c8e796db4611e2d9ec5e7a
+
+#### Name: [Aditya Chaplot](https://github.com/adielliot37)
+- Place: Bhilwara , Rajasthan ,India
+- Bio: 2nd year cse student at IIITV cyber-security enthusiast
+- GitHub: [adielliot37](https://github.com/adielliot37)
