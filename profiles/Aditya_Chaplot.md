@@ -1,4 +1,27 @@
-#### Name: Aditya Chaplot
-- Place: Bhilwara ,Rajasthan
-- Bio: 2nd yr CSE student at IIITV cyber-security enthusiast
-- GitHub: https://github.com/adielliot37
+# Aditya Chaplot
+
+### Location
+
+Bhilwara,Rajasthan,India
+
+### Academics
+
+IIIT Vadodara
+
+### Interests
+
+- cyber-security
+- Blockchain
+- Backend
+
+### Development
+
+- ye kya hota he
+
+### Projects
+
+- [zphisher](https://github.com/adielliot37/zphisher) just a phishing repo xD
+
+### Profile Link
+
+[Aditya Chaplot](https://github.com/adielliot37/)
